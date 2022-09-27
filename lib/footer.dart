@@ -49,7 +49,7 @@ class Footer extends StatelessWidget {
                 width: 5,
               ),
               Text(
-                "2022 CiRA Robotics",
+                "2022 CiRA Robotics.",
                 style: TextStyle(color: Colors.white70),
               ),
             ],
